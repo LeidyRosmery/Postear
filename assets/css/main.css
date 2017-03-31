@@ -1,0 +1,43 @@
+.boton {
+    width: 100px;
+    margin: 0 auto;
+    padding: 0.5em;
+    border: 1px solid #98be10;
+    background: #f6feda;
+    font-weight: bold;
+    border-radius: 6px;
+}
+
+input {
+    border-radius: 6px;
+}
+
+textarea {
+    border-radius: 6px;
+}
+
+legend {
+    color: #98be10;
+    font-weight: bold;
+    font-size: 30px;
+    text-align: center;
+}
+
+label {
+    font-weight: bold;
+}
+
+fieldset {
+    border-radius: 30px;
+    display: inline-block;
+    margin: 90px 400px 50px 400px;
+}
+
+.impresion {
+    border-radius: 30px;
+    font-weight: bold;
+    border: 1px solid #98be10;
+    width: 600px;
+    margin: 0 auto;
+    padding: 0.5em;
+}
